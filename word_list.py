@@ -1,7 +1,7 @@
-words=['Adventure', 'Mountain', 'Sunshine', 'Coffee', 'Reflection', 'Ocean', 'Whisper', 
-    'Journey', 'Harmony', 'Laughter', 'Dream', 'Wander', 'Passion', 'Serenity', 
-    'Twilight', 'Friendship', 'Blossom', 'Melody', 'Gravity', 'Firefly', 'Star', 
-    'Raindrop', 'Eclipse', 'Horizon', 'Lantern', 'Breeze', 'Canvas', 'Voyage', 'Echo', 
-    'Universe', 'Bloom', 'Thunder', 'Sky', 'Mystery', 'River', 'Joyful', 'Starlight', 
-    'Peace', 'Oasis', 'Forest', 'Heartbeat', 'Solitude', 'Snowfall', 'Reflection', 
-    'Rhythm', 'Adventure', 'Wanderlust', 'Glow', 'Tranquil', 'Escape']
+words=['adventure', 'mountain', 'sunshine', 'coffee', 'reflection', 'ocean', 'whisper', 
+    'journey', 'harmony', 'laughter', 'dream', 'wander', 'passion', 'serenity', 
+    'twilight', 'friendship', 'blossom', 'melody', 'gravity', 'firefly', 'star', 
+    'raindrop', 'eclipse', 'horizon', 'lantern', 'breeze', 'canvas', 'voyage', 'echo', 
+    'universe', 'bloom', 'thunder', 'sky', 'mystery', 'river', 'joyful', 'starlight', 
+    'peace', 'oasis', 'forest', 'heartbeat', 'solitude', 'snowfall', 'reflection', 
+    'rhythm', 'adventure', 'wanderlust', 'glow', 'tranquil', 'escape']
